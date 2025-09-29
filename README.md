@@ -14,4 +14,5 @@ This Pac-Man game was created as a learning project following a YouTube tutorial
 - Detect collisions and manage game events  
 - Display score and reset the game upon collisions
 
-![Pac-Man Screenshot](images/Screenshot 2025-09-29 100412.png)
+<img width="1911" height="1028" alt="Screenshot 2025-09-29 100412" src="https://github.com/user-attachments/assets/2233643b-3764-4faa-85f7-4b87d594ad6d" />
+
