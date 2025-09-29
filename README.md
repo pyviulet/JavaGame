@@ -1,6 +1,3 @@
-# Pac-Man
-Pac-Man Game built in Java as a learning project following a YouTube tutorial. Practiced Java fundamentals, object-oriented programming (OOP), and Git version control.
-
 Coding Tutorial: https://youtu.be/lB_J-VNMVpE
 
 # Pac-Man Game (Learning Project)
